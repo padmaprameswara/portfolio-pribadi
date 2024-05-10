@@ -1,0 +1,6 @@
+{
+  "editor.fontSize": 20,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.acceptSuggestionOnCommitCharacter": true,
+  "editor.formatOnSave": true
+}
