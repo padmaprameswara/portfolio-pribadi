@@ -2,5 +2,6 @@
   "editor.fontSize": 20,
   "editor.fontFamily": "JetBrains Mono",
   "editor.acceptSuggestionOnCommitCharacter": true,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "livePreview.defaultPreviewPath": "/index.html"
 }
